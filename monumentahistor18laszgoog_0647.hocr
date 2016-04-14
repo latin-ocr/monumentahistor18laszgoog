@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentahistor18laszgoog_0647.png"; bbox 0 0 3824 5806; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 867 2149 934 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 867 2149 934 2225">
+     <span class='ocr_line' id='line_1_1' title="bbox 867 2149 934 2225; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 867 2149 934 2225; x_wconf 83' lang='lat'>111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 574 2372 1249 2530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 574 2372 1249 2530">
+     <span class='ocr_line' id='line_1_2' title="bbox 574 2372 1249 2530; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 574 2372 1249 2530; x_wconf 79' lang='lat' dir='ltr'><strong>KALENDARIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 334 2681 1471 2816">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 334 2681 1471 2816">
+     <span class='ocr_line' id='line_1_3' title="bbox 334 2681 1471 2816; baseline 0.001 -31"><span class='ocrx_word' id='word_1_3' title='bbox 334 2683 796 2816; x_wconf 66' lang='lat' dir='ltr'>ECOLFJS-IAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 851 2681 1471 2787; x_wconf 76' lang='lat' dir='ltr'>ZAGRABIEINSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 626 2947 1180 3014">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 626 2947 1180 3014">
+     <span class='ocr_line' id='line_1_4' title="bbox 626 2947 1180 3014; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 626 2947 794 3014; x_wconf 84' lang='lat' dir='ltr'>SAEC.</span> <span class='ocrx_word' id='word_1_6' title='bbox 817 2948 940 3014; x_wconf 92' lang='lat' dir='ltr'>XIII.</span> <span class='ocrx_word' id='word_1_7' title='bbox 962 2947 1038 3012; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1062 2947 1180 3012; x_wconf 86' lang='lat' dir='ltr'>XIV.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 3625 2 4190">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 3625 2 4190">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 3625 2 4190; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 3625 2 4190; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1916 5796">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1916 5796">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1916 5796; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1916 5796; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
